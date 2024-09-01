@@ -1,7 +1,7 @@
 # ePortfolio
 Portfolio of my Data Analyst projects
 <p align="center">
-   <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/cycle_logo.jpeg" alt="Alt text" width="50%">
+   <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/cycle_logo.jpg" alt="Alt text" width="50%">
 </p>
 
 
