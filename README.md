@@ -15,16 +15,17 @@ Portfolio of my Data Analyst projects
 
 ## Technologies Used
 
-- **Programming Langauge:** R:
+- **Programming Langauge:** R
 - **Environment:** Excel, SQLite, RStudio
 - **Libraries:** ggplot2, tidyverse, magrittr, DBI, RSQLite
-- **Other** SQL
+- **Other:** SQL
+
+# Cyclistic Bike-Share Analysis Project
 
 <p align="center">
    <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/cycle_logo.jpg" alt="Alt text" width="50%">
 </p>
 
-# Cyclistic Bike-Share Analysis Project
 
 ## Project Overview
 
