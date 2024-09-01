@@ -13,16 +13,16 @@ Portfolio of my Data Analyst projects
 # Welcome to My Data Analyst ePortfolio!
 #### The ePortfolio contains a Capstone project that was completed as part of a Coursera Data Analyst online course.
 
-#### Technologies
-* **Programming Language:** R
-* **Environment:** Anaconda, R-Studio
-* **Libraries:** Library1, Library2, Library3
+## Technologies Used
 
+- **Programming Langauge:** R:
+- **Environment:** Excel, SQLite, RStudio
+- **Libraries:** ggplot2, tidyverse, magrittr, DBI, RSQLite
+- **Other** SQL
 
 <p align="center">
    <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/cycle_logo.jpg" alt="Alt text" width="50%">
 </p>
-
 
 # Cyclistic Bike-Share Analysis Project
 
@@ -68,20 +68,3 @@ Based on the analysis, I proposed three strategic recommendations:
 
 This project enhanced my ability to analyze complex datasets and generate actionable business insights. The findings and recommendations provided could significantly influence Cyclistic's marketing strategies, potentially leading to an increase in annual memberships and overall profitability.
 
-## Technologies Used
-
-- **R:** Data cleaning, manipulation, and analysis.
-- **R Libraries:**
-  - **ggplot2:** Data visualization.
-  - **tidyverse:** Comprehensive data science toolkit (including dplyr, readr, tidyr, stringr, lubridate, forcats, purrr, tibble).
-  - **DBI & RSQLite:** Database management and querying.
-  - **magrittr:** Functional programming enhancements, especially with piping.
-  - **htmltools:** HTML content generation from R.
-  - **scales:** Custom data scaling for visualizations.
-  - **xfun:** Utility functions for R Markdown and reporting.
-- **Google Sheets:** Data processing and preliminary analysis.
-- **R Markdown:** Documentation and reporting.
-- **SQLite & SQL:** Database management and querying for data extraction and analysis.
-- **Excel & Pivot Tables:** Data organization, manipulation, and analysis.
-- **RStudio:** Integrated development environment for R, used extensively for coding and analysis.
-```
