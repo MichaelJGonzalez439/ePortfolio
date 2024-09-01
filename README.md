@@ -5,7 +5,7 @@ Portfolio of my Data Analyst projects
 <div style="text-align: center;">
   <h1>Michael Joseph Gonzalez<br>
   <a href="https://www.linkedin.com/in/michaeljgonzalez24">
-    <img src="https://michaeljgonzalez439.github.io/ePortfolio/DS/assets/images/LI-Logo.png" alt="LinkedIn" style="vertical-align: middle; width: 8%; height: 8%;">
+    <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/LI-Logo.png" alt="LinkedIn" style="vertical-align: middle; width: 8%; height: 8%;">
   </a>
   </h1>
 </div>
