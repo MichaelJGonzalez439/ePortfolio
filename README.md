@@ -1,5 +1,24 @@
 # ePortfolio
 Portfolio of my Data Analyst projects
+
+
+<div style="text-align: center;">
+  <h1>Michael Joseph Gonzalez<br>
+  <a href="https://www.linkedin.com/in/michaeljgonzalez24">
+    <img src="https://michaeljgonzalez439.github.io/ePortfolio/DS/assets/images/LI-Logo.png" alt="LinkedIn" style="vertical-align: middle; width: 8%; height: 8%;">
+  </a>
+  </h1>
+</div>
+
+# Welcome to My Data Analyst ePortfolio!
+#### The ePortfolio contains a Capstone project that was completed as part of a Coursera Data Analyst online course.
+
+#### Technologies
+* **Programming Language:** R
+* **Environment:** Anaconda, R-Studio
+* **Libraries:** Library1, Library2, Library3
+
+
 <p align="center">
    <img src="https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/assets/images/cycle_logo.jpg" alt="Alt text" width="50%">
 </p>
