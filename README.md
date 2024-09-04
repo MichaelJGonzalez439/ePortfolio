@@ -31,7 +31,7 @@ Portfolio of my Data Analyst projects
 
 As part of a data analysis project from an online Coursera course, I completed a comprehensive analysis of the Cyclistic bike-share program, a fictional bike-sharing company based in Chicago. This project aimed to uncover insights into how Cyclistic's casual riders and annual members use their bike-share service differently. The ultimate goal was to develop a data-driven marketing strategy to increase yearly memberships, which are more profitable for the company.
 
-* [Cyclist Ride Share Project R Code and Analysis](https://MichaelJGonzalez439.github.io/ePortfolio/DataAnalyst/prj1_cyclist/CyclisticMarkdownProject.html)
+* [Cyclist Ride Share Project R Code and Analysis](file:///C:/Users/mjgon/OneDrive/Desktop/Case%20Study%20Data/CyclisticMarkdownProject.html)
 
 ## Project Role
 
